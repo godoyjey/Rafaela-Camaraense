@@ -1,4 +1,4 @@
-# 🏛️ Rafaela Camaraense - Portfólio Pessoal
+# 🏛️ Rafaela Camaraense
 
 O projeto foi desenvolvido em WordPress de alta performance.
 
